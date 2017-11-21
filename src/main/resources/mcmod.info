@@ -1,0 +1,16 @@
+[
+{
+  "modid": "turingmod",
+  "name": "Turing Mod",
+  "description": "Turing placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["pancia"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

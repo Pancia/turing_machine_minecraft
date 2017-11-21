@@ -1,0 +1,6 @@
+run
+build
+bin
+*.launch
+.gradle
+.settings
